@@ -10,7 +10,7 @@ This project investigates:
 
 ## **🚀 Quick Start**  
 1️⃣ Clone the repo:  
-```bash
+
 
 2️⃣ install depencises :
 pip install -r requirements.txt
